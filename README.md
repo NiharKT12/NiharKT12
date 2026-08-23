@@ -1,11 +1,12 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00FFFF&background=000000&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Nihar+%F0%9F%91%8B;Systems+%2F+C%2B%2B+Programmer;Building+things+from+scratch;Chess+Engine+%7C+CHIP-8+Emulator" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&duration=1&repeat=false&pause=1&color=00FFFF&background=000000&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Nihar" alt="Header" />
 
 <br><br>
 
 🔭 Currently expanding my portfolio with real-world web tools and full-stack apps
 🌱 Currently learning system design fundamentals
+
 
 <br>
 
@@ -15,7 +16,9 @@
 
 <br>
 
-## 💻 Tech Stack
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&duration=1&repeat=false&pause=1&color=00FFFF&background=000000&center=true&vCenter=true&width=400&lines=Tech+Stack" alt="Tech Stack" />
+</div>
 
 <div align="center">
 
@@ -37,7 +40,9 @@
 
 <br>
 
-## 📊 GitHub Stats
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&duration=1&repeat=false&pause=1&color=00FFFF&background=000000&center=true&vCenter=true&width=400&lines=GitHub+Stats" alt="GitHub Stats" />
+</div>
 
 <div align="center">
 
@@ -58,7 +63,9 @@
 
 <br>
 
-## 🐍 Contribution Activity
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&duration=1&repeat=false&pause=1&color=00FFFF&background=000000&center=true&vCenter=true&width=500&lines=Contribution+Activity" alt="Contribution Activity" />
+</div>
 
 <div align="center">
 
