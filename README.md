@@ -49,7 +49,7 @@
 <img src="https://github-readme-stats-seven-self-22.vercel.app/api?username=NiharKT12&theme=dark&hide_border=true&bg_color=000000&title_color=00FFFF&icon_color=00FFFF&text_color=FFFFFF&include_all_commits=true&count_private=true" width="49%" />
 <img src="https://github-readme-stats-seven-self-22.vercel.app/api/top-langs/?username=NiharKT12&theme=dark&hide_border=true&bg_color=000000&title_color=00FFFF&text_color=FFFFFF&include_all_commits=true&count_private=true&layout=compact" width="49%" />
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=NiharKT12&theme=dark&hide_border=true&background=000000&ring=00FFFF&fire=00FFFF&currStreakLabel=00FFFF" width="70%" />
+<img src="https://streak-stats.demolab.com/?user=NiharKT12&theme=dark&hide_border=true&background=000000&ring=00FFFF&fire=00FFFF&currStreakLabel=00FFFF" width="70%" />
 
 </div>
 
